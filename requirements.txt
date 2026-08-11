@@ -3,3 +3,4 @@ uvicorn[standard]==0.35.0
 python-multipart==0.0.20
 pydantic==2.11.7
 requests==2.32.4
+gradio_client==1.13.1
